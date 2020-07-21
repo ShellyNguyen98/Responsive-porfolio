@@ -18,6 +18,9 @@ h2 {
   font-family:'Indie Flower', cursive;
   text-align: center;
 }
+.container {
+    background-color: lightcyan;
+}
 
 .footer {
     padding: 30px;
@@ -25,5 +28,4 @@ h2 {
     font-family:'Indie Flower', cursive ;
     text-align: center;
 }
-
 
