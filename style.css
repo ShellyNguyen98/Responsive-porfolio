@@ -20,6 +20,7 @@ h2 {
 }
 .container {
     background-color: lightcyan;
+    border: 2px solid black
 }
 
 .footer {
@@ -40,3 +41,8 @@ h2 {
 .col-sm-8 {
     text-align: center
 }
+
+.caption {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}   
