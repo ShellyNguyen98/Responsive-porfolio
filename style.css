@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#myHeading {
+    color: maroon;
+}
+h1 { 
+  font-family:'Indie Flower', cursive;
+}
+h2 { 
+  border-bottom: 2px solid black;
+  padding: 25px;
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  font-family:'Indie Flower', cursive;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family:'Indie Flower', cursive ;
+    text-align: center;
+}
+
+
